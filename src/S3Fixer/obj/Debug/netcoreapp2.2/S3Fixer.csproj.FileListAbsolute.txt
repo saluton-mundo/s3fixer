@@ -1,0 +1,11 @@
+C:\Users\Gaming\source\repos\S3Fixer\bin\Debug\netcoreapp2.2\S3Fixer.deps.json
+C:\Users\Gaming\source\repos\S3Fixer\bin\Debug\netcoreapp2.2\S3Fixer.runtimeconfig.json
+C:\Users\Gaming\source\repos\S3Fixer\bin\Debug\netcoreapp2.2\S3Fixer.runtimeconfig.dev.json
+C:\Users\Gaming\source\repos\S3Fixer\bin\Debug\netcoreapp2.2\S3Fixer.dll
+C:\Users\Gaming\source\repos\S3Fixer\obj\Debug\netcoreapp2.2\S3Fixer.csprojAssemblyReference.cache
+C:\Users\Gaming\source\repos\S3Fixer\obj\Debug\netcoreapp2.2\S3Fixer.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\source\repos\S3Fixer\obj\Debug\netcoreapp2.2\S3Fixer.AssemblyInfoInputs.cache
+C:\Users\Gaming\source\repos\S3Fixer\obj\Debug\netcoreapp2.2\S3Fixer.AssemblyInfo.cs
+C:\Users\Gaming\source\repos\S3Fixer\bin\Debug\netcoreapp2.2\S3Fixer.pdb
+C:\Users\Gaming\source\repos\S3Fixer\obj\Debug\netcoreapp2.2\S3Fixer.dll
+C:\Users\Gaming\source\repos\S3Fixer\obj\Debug\netcoreapp2.2\S3Fixer.pdb

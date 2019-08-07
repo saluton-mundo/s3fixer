@@ -1,0 +1,51 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.2": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Gaming\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Gaming\\source\\repos\\S3Fixer\\S3Fixer.csproj",
+      "projectName": "S3Fixer",
+      "projectPath": "C:\\Users\\Gaming\\source\\repos\\S3Fixer\\S3Fixer.csproj",
+      "packagesPath": "C:\\Users\\Gaming\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gaming\\source\\repos\\S3Fixer\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Gaming\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.2"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://nuget.rioit.co.uk/nuget": {},
+        "http://nuget.sitefinity.com/nuget": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.myget.org/F/cachemanager/api/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.2": {}
+    }
+  }
+}
